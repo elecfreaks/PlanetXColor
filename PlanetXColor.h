@@ -1,5 +1,5 @@
-#ifndef _PlanetXCOLOR_H_
-#define _PlanetXCOLOR_H_
+#ifndef _PLANETXCOLOR_H_
+#define _PLANETXCOLOR_H_
 
 #include <Arduino.h>
 #include <Arduino_APDS9960.h>
